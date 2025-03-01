@@ -1,4 +1,18 @@
-## Hi there 👋
+<div>
+  <!--Body-->
+  
+  ## 🌱 About Me
+  #### 안드로이드 개발자<br/>
+  <br/>
+
+  ## 🔥 Tech Stack
+  <!--android-->
+  <img src="https://img.shields.io/badge/android-34A853?style=flat-square&logo=android&logoColor=white"/>
+  <!--kotlin-->
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+  <br/>
+  
+</div>
 
 <!--
 **serayou/serayou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
