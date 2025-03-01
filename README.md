@@ -2,7 +2,10 @@
   <!--Body-->
   
   ## 🌱 About Me
-  #### 안드로이드 개발자<br/>
+  #### Android Developer<br/>
+  <br/>
+
+  ## 🔭 Careers
   <br/>
 
   ## 🔥 Tech Stack
